@@ -5,3 +5,6 @@ new line in commit 2.
 
 ## Sub header
 Tutorial for git
+
+## Feature 1
+1. open index.html in browser
